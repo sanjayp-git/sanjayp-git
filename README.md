@@ -50,7 +50,4 @@ I look forward to serving you.
 
 Thank you very much.
 
-Best wishes,
-Sanjay
-
-✔ 𝐏𝐒: To ensure clients satisfaction through remote work, I am committed to transparent communication, setting clear expectations, providing regular updates, being highly responsive, delivering high-quality work & code, NDA, and agile software development practices.
+- Sanjay

@@ -1,5 +1,3 @@
-Full Stack Developer | GenAI, Web, Mobile, Ecommerce, Game, Software
-
 🚀 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐭𝐡𝐞 𝐅𝐮𝐭𝐮𝐫𝐞 𝐨𝐟 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐰𝐢𝐭𝐡 𝐒𝐚𝐧𝐣𝐚𝐲! 🚀
 
 Are you looking for a skilled and experienced Full Stack Developer who can transform your ideas into reality?
@@ -57,6 +55,3 @@ Whether you're looking to outsource projects, hire dedicated remote software dev
 Let's embark on a journey of success together. Hire me now, and I look forward to serving you with utmost dedication.
 
 Thank you very much for considering me as your technology partner.
-
-Best wishes,
-Sanjay

@@ -28,4 +28,4 @@ Do:
 - Marketing: Digital Marketing, SEO, SEM, PPC, ASO, PR, Social Media, Email Marketing, Advertising, Content Writing, & more
 - Others: C/C++/C# Programming, Extension Development, Data Scraping, SaaS Development, Custom Software Development, Third-Party Integration, Migration, Modernization, Business Analysis, Project Management, & more
 
-Please contact me by sending an invitation or message on Upwork: https://www.upwork.com/freelancers/~01a92e5ff4823e440f
+Contact me: info@humanssofttech.com
